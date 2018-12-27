@@ -1,0 +1,2 @@
+# Referenced at /Users/lianavklt/Documents/AdvancedAndroid/xyz-reader-starter-code-master/XYZReader/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
